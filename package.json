@@ -22,6 +22,7 @@
     "@angular/platform-browser-dynamic": "~11.0.5",
     "@angular/pwa": "^12.1.2",
     "@angular/router": "~11.0.5",
+    "@angular/service-worker": "~11.0.5",
     "bootstrap": "^5.0.2",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
