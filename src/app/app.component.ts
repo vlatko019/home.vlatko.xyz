@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'home';
+  windowWidth: number;
+  windowHeight: number;
+  constructor(){
+    this.windowHeight = (window.screen.height);
+    this.windowWidth = (window.screen.width);
+  }
 }
